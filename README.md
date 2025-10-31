@@ -37,13 +37,13 @@ An ALU takes **operands** as input data and **opcodes** to specify the operation
     <img src='images/operation.png' width=250 height=250>
 </p>
 
-### Architecture:
+## Architecture:
 
-Adder :- Ripple Carry adder(RCA)
+### Adder :- Ripple Carry adder(RCA)
 
 The Ripple Carry Adder is a simple and intuitive digital circuit for binary addition. It chains full adders together, where the carry-out from one bit position "ripples" to the carry-in of the next, propagating sequentially from the least significant bit (LSB) to the most significant bit (MSB).
 
-Key Features:
+## Key Features:
 
 Structure: Composed of n full adders (one per bit), each handling a pair of input bits (A_i, B_i) plus a carry-in (C_i).
 Operation: Sum bit S_i = A_i XOR B_i XOR C_i; Carry-out C_{i+1} = (A_i AND B_i) OR (A_i AND C_i) OR (B_i AND C_i).
