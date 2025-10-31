@@ -1,5 +1,6 @@
-module multiplier (input clk,input start,input [7:0]a,input [7:0]b,
- output reg [15:0] out,output reg busy);
+module multiplier (input clk,input start,input [7:0]a,
+input [7:0]b, output reg [15:0] out,
+output reg busy);
 
  reg signed [7:0]acc; 
  reg signed [7:0] Q;

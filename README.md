@@ -14,7 +14,7 @@ Key Features:
 
 ### Logical Operations:
 
-> | AND  |
+> AND  |
 > OR   |
 > NOT  |
 > XOR  | 
