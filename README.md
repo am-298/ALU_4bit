@@ -14,7 +14,7 @@ Key Features:
 
 ### Logical Operations:
 
-> AND  |
+> | AND  |
 > OR   |
 > NOT  |
 > XOR  | 
@@ -37,3 +37,8 @@ An ALU takes **operands** as input data and **opcodes** to specify the operation
     <img src='images/operation.png' width=250 height=250>
 </p>
 
+### Architecture 
+Adder :- 
+Subtractor :-
+Multipication :- 
+Division :-
